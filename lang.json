@@ -1,0 +1,758 @@
+[
+    {
+        "Branch Name": "Branch 1",
+        "Group": "सिंदर (Sindar)",
+        "Gotra": "मुगलस (Muglas)",
+        "Surnames": [
+            "राठोर (Rathor)",
+            "पटोडिया (Patodiya)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 2",
+        "Group": "लुणा (Luna)",
+        "Gotra": "गोलस (Golas)",
+        "Surnames": [
+            "साराफ (Saraf)",
+            "लुणा (Luniya)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 3",
+        "Group": "टांकी (Tanki)",
+        "Gotra": "कटरिया (Katariya)",
+        "Surnames": [
+            "चौड़ा (Chawda)",
+            "टांक (Tank)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 4",
+        "Group": "बरजाट (Barjat)",
+        "Gotra": "संगल (Sangal)",
+        "Surnames": [
+            "गौर (Gaur)",
+            "संगर (Sangar)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 5",
+        "Group": "खंडवाल (Khandwal)",
+        "Gotra": "बलसारा (Balsara)",
+        "Surnames": [
+            "खन्ना (Khana)",
+            "तिवारी (Tiwari)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 6",
+        "Group": "मालू (Malu)",
+        "Gotra": "चावन (Chavan)",
+        "Surnames": [
+            "शाह (Shah)",
+            "सोमैया (Somayya)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 7",
+        "Group": "मंजू (Manju)",
+        "Gotra": "भामरा (Bhamra)",
+        "Surnames": [
+            "वल्यन (Valyan)",
+            "सोनी (Soni)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 8",
+        "Group": "आगरीवाल (Agriwal)",
+        "Gotra": "कौशल्या (Kaushalya)",
+        "Surnames": [
+            "सोमैया (Somayya)",
+            "पटोदिया (Patodiya)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 9",
+        "Group": "टाशी (Tashi)",
+        "Gotra": "गुलगुल्या (Gulgulya)",
+        "Surnames": [
+            "चौहान (Chauhan)",
+            "राठी (Rathi)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 10",
+        "Group": "मारवाडिया (Marwadia)",
+        "Gotra": "धोबाल (Dhobal)",
+        "Surnames": [
+            "गोयल (Goyal)",
+            "तेजवानी (Tejwani)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 11",
+        "Group": "मंडलेवाला (Mandlewala)",
+        "Gotra": "राठोर (Rathor)",
+        "Surnames": [
+            "बजाज (Bajaj)",
+            "सोनी (Soni)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 12",
+        "Group": "बजोरिया (Bajoria)",
+        "Gotra": "शाहदिया (Shahdiya)",
+        "Surnames": [
+            "सिन्हा (Sinha)",
+            "भट्ट (Bhatt)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 13",
+        "Group": "रजद (Rajad)",
+        "Gotra": "असलानी (Aslani)",
+        "Surnames": [
+            "अवस्थी (Awasthi)",
+            "गोधा (Godha)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 14",
+        "Group": "खत्री (Khatri)",
+        "Gotra": "मतोलिया (Matolia)",
+        "Surnames": [
+            "घटोल (Ghatol)",
+            "वोहरा (Vohra)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 15",
+        "Group": "भूजद (Bhojad)",
+        "Gotra": "सिंघला (Singhala)",
+        "Surnames": [
+            "रावत (Rawat)",
+            "गोया (Goya)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 16",
+        "Group": "माहेश्वरी (Maheshwari)",
+        "Gotra": "चौहान (Chauhan)",
+        "Surnames": [
+            "गोयल (Goyal)",
+            "पटोदिया (Patodiya)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 17",
+        "Group": "मालनिया (Malania)",
+        "Gotra": "घुलसर (Ghulsar)",
+        "Surnames": [
+            "चौहान (Chauhan)",
+            "शाह (Shah)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 18",
+        "Group": "गौर (Gaur)",
+        "Gotra": "भट्ट (Bhatt)",
+        "Surnames": [
+            "भट्टी (Bhatti)",
+            "कुमार (Kumar)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 19",
+        "Group": "अग्निहोत्री (Agnihotri)",
+        "Gotra": "कश्यप (Kashyap)",
+        "Surnames": [
+            "अग्रवाल (Agrawal)",
+            "शर्मा (Sharma)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 20",
+        "Group": "कनानी (Kanani)",
+        "Gotra": "टाटिया (Tatia)",
+        "Surnames": [
+            "लुनावत (Lunawat)",
+            "गुप्ता (Gupta)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 21",
+        "Group": "राजोर (Rajor)",
+        "Gotra": "बघोट्रा (Baghotra)",
+        "Surnames": [
+            "पटोदिया (Patodiya)",
+            "टायल (Tayal)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 22",
+        "Group": "पेडराल (Pedral)",
+        "Gotra": "नाथाणी (Nathani)",
+        "Surnames": [
+            "जोशी (Joshi)",
+            "परख (Parakh)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 23",
+        "Group": "सोनानी (Sonani)",
+        "Gotra": "थार्यानी (Tharyani)",
+        "Surnames": [
+            "बिस्वास (Biswas)",
+            "गोठवाल (Gothwal)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 24",
+        "Group": "भूताल (Bhutal)",
+        "Gotra": "परयानी (Paryani)",
+        "Surnames": [
+            "नेमा (Nema)",
+            "व्यास (Vyas)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 25",
+        "Group": "परमार (Parmar)",
+        "Gotra": "नथवंशी (Nathwanshi)",
+        "Surnames": [
+            "गोठवाल (Gothwal)",
+            "सूर्यवंशी (Suryavanshi)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 26",
+        "Group": "डागा (Daga)",
+        "Gotra": "राठौर (Rathore)",
+        "Surnames": [
+            "सुवालका (Suwalka)",
+            "कालावत (Kalawat)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 27",
+        "Group": "गोरखनाथ (Gorakhnath)",
+        "Gotra": "सोनीवाला (Soniwala)",
+        "Surnames": [
+            "पुरोहित (Purohit)",
+            "लोढ़ा (Lodha)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 28",
+        "Group": "चचानी (Chachani)",
+        "Gotra": "विश्नोई (Vishnoi)",
+        "Surnames": [
+            "कटरिया (Katariya)",
+            "मानशानी (Manshani)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 29",
+        "Group": "पटोडिया (Patodiya)",
+        "Gotra": "लोहानी (Lohani)",
+        "Surnames": [
+            "तिबरेवाल (Tibrewal)",
+            "चंदालिया (Chandalia)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 30",
+        "Group": "बदगुर्जर (Badgurjar)",
+        "Gotra": "गड़वाल (Gadwal)",
+        "Surnames": [
+            "भलोटिया (Bhalotia)",
+            "राठौर (Rathore)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 31",
+        "Group": "हेडा (Heda)",
+        "Gotra": "अग्रवाल (Agrawal)",
+        "Surnames": [
+            "टायल (Tayal)",
+            "बोहरा (Bohra)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 32",
+        "Group": "विदावत (Vidawat)",
+        "Gotra": "गौतम (Gautam)",
+        "Surnames": [
+            "शर्मा (Sharma)",
+            "राठौर (Rathore)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 33",
+        "Group": "विदाड्या (Vidadya)",
+        "Gotra": "चंदावत (Chandawat)",
+        "Surnames": [
+            "सोनी (Soni)",
+            "पटनी (Patni)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 34",
+        "Group": "अग्नीवाल (Agniwal)",
+        "Gotra": "भलसारा (Bhalsara)",
+        "Surnames": [
+            "ओसवाल (Oswal)",
+            "चावला (Chawla)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 35",
+        "Group": "अटल (Atal)",
+        "Gotra": "चतुर्वेदी (Chaturvedi)",
+        "Surnames": [
+            "सक्सेना (Saxena)",
+            "खंडेलवाल (Khandelwal)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 36",
+        "Group": "घटानी (Ghatani)",
+        "Gotra": "मोर्याणी (Moryani)",
+        "Surnames": [
+            "बच्छानी (Bachani)",
+            "जोरा (Jaora)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 37",
+        "Group": "बजपाई (Bajpai)",
+        "Gotra": "रघुवंशी (Raghuvanshi)",
+        "Surnames": [
+            "राठौर (Rathore)",
+            "सिंह (Singh)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 38",
+        "Group": "भूतड़ा (Bhutada)",
+        "Gotra": "पंचोली (Pancholi)",
+        "Surnames": [
+            "रावल (Rawal)",
+            "तिवारी (Tiwari)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 39",
+        "Group": "कश्यप (Kashyap)",
+        "Gotra": "नथवंशी (Nathwanshi)",
+        "Surnames": [
+            "राठौर (Rathore)",
+            "जैन (Jain)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 40",
+        "Group": "कसारा (Kasara)",
+        "Gotra": "डोबला (Dobla)",
+        "Surnames": [
+            "पटेल (Patel)",
+            "टायल (Tayal)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 41",
+        "Group": "गोदारा (Godara)",
+        "Gotra": "मुकुटिया (Mukutiya)",
+        "Surnames": [
+            "धनुष (Dhanush)",
+            "कुमार (Kumar)"
+        ]
+    },
+    {
+        "Branch Name": "Branch 42",
+        "Gotra": "मुगलस (Muglas)",
+        "Surnames": [
+            "राठोर (Rathor)",
+            "पटोडिया (Patodiya)"
+        ],
+        "Deity Name": "Shiva"
+    },
+    {
+        "Branch Name": "Branch 43",
+        "Gotra": "गोलस (Golas)",
+        "Surnames": [
+            "साराफ (Saraf)",
+            "लुणा (Luna)"
+        ],
+        "Deity Name": "Vishnu"
+    },
+    {
+        "Branch Name": "Branch 44",
+        "Gotra": "कटरिया (Katariya)",
+        "Surnames": [
+            "चौड़ा (Chawda)",
+            "टांक (Tank)"
+        ],
+        "Deity Name": "Ganesh"
+    },
+    {
+        "Branch Name": "Branch 45",
+        "Gotra": "संगल (Sangal)",
+        "Surnames": [
+            "गौर (Gaur)",
+            "संगर (Sangar)"
+        ],
+        "Deity Name": "Durga"
+    },
+    {
+        "Branch Name": "Branch 46",
+        "Gotra": "बलसारा (Balsara)",
+        "Surnames": [
+            "खन्ना (Khana)",
+            "तिवारी (Tiwari)"
+        ],
+        "Deity Name": "Hanuman"
+    },
+    {
+        "Branch Name": "Branch 47",
+        "Gotra": "चावन (Chavan)",
+        "Surnames": [
+            "शाह (Shah)",
+            "सोमैया (Somayya)"
+        ],
+        "Deity Name": "Lakshmi"
+    },
+    {
+        "Branch Name": "Branch 48",
+        "Gotra": "भामरा (Bhamra)",
+        "Surnames": [
+            "वल्यन (Valyan)",
+            "सोनी (Soni)"
+        ],
+        "Deity Name": "Krishna"
+    },
+    {
+        "Branch Name": "Branch 49",
+        "Gotra": "कौशल्या (Kaushalya)",
+        "Surnames": [
+            "सोमैया (Somayya)",
+            "पटोदिया (Patodiya)"
+        ],
+        "Deity Name": "Rama"
+    },
+    {
+        "Branch Name": "Branch 50",
+        "Gotra": "गुलगुल्या (Gulgulya)",
+        "Surnames": [
+            "चौहान (Chauhan)",
+            "राठी (Rathi)"
+        ],
+        "Deity Name": "Saraswati"
+    },
+    {
+        "Branch Name": "Branch 51",
+        "Gotra": "धोबाल (Dhobal)",
+        "Surnames": [
+            "गोयल (Goyal)",
+            "तेजवानी (Tejwani)"
+        ],
+        "Deity Name": "Shiva"
+    },
+    {
+        "Branch Name": "Branch 52",
+        "Gotra": "राठोर (Rathor)",
+        "Surnames": [
+            "बजाज (Bajaj)",
+            "सोनी (Soni)"
+        ],
+        "Deity Name": "Vishnu"
+    },
+    {
+        "Branch Name": "Branch 53",
+        "Gotra": "शाहदिया (Shahdiya)",
+        "Surnames": [
+            "सिन्हा (Sinha)",
+            "भट्ट (Bhatt)"
+        ],
+        "Deity Name": "Ganesh"
+    },
+    {
+        "Branch Name": "Branch 54",
+        "Gotra": "असलानी (Aslani)",
+        "Surnames": [
+            "अवस्थी (Awasthi)",
+            "गोधा (Godha)"
+        ],
+        "Deity Name": "Durga"
+    },
+    {
+        "Branch Name": "Branch 55",
+        "Gotra": "मतोलिया (Matolia)",
+        "Surnames": [
+            "घटोल (Ghatol)",
+            "वोहरा (Vohra)"
+        ],
+        "Deity Name": "Hanuman"
+    },
+    {
+        "Branch Name": "Branch 56",
+        "Gotra": "सिंघला (Singhala)",
+        "Surnames": [
+            "रावत (Rawat)",
+            "गोया (Goya)"
+        ],
+        "Deity Name": "Lakshmi"
+    },
+    {
+        "Branch Name": "Branch 57",
+        "Gotra": "चौहान (Chauhan)",
+        "Surnames": [
+            "गोयल (Goyal)",
+            "पटोदिया (Patodiya)"
+        ],
+        "Deity Name": "Krishna"
+    },
+    {
+        "Branch Name": "Branch 58",
+        "Gotra": "घुलसर (Ghulsar)",
+        "Surnames": [
+            "चौहान (Chauhan)",
+            "शाह (Shah)"
+        ],
+        "Deity Name": "Saraswati"
+    },
+    {
+        "Branch Name": "Branch 59",
+        "Gotra": "भट्ट (Bhatt)",
+        "Surnames": [
+            "भट्टी (Bhatti)",
+            "कुमार (Kumar)"
+        ],
+        "Deity Name": "Shiva"
+    },
+    {
+        "Branch Name": "Branch 60",
+        "Gotra": "कश्यप (Kashyap)",
+        "Surnames": [
+            "अग्रवाल (Agrawal)",
+            "शर्मा (Sharma)"
+        ],
+        "Deity Name": "Vishnu"
+    },
+    {
+        "Branch Name": "Branch 61",
+        "Gotra": "टाटिया (Tatia)",
+        "Surnames": [
+            "लुनावत (Lunawat)",
+            "गुप्ता (Gupta)"
+        ],
+        "Deity Name": "Ganesh"
+    },
+    {
+        "Branch Name": "Branch 62",
+        "Gotra": "बघोट्रा (Baghotra)",
+        "Surnames": [
+            "पटोदिया (Patodiya)",
+            "टायल (Tayal)"
+        ],
+        "Deity Name": "Durga"
+    },
+    {
+        "Branch Name": "Branch 63",
+        "Gotra": "नाथाणी (Nathani)",
+        "Surnames": [
+            "जोशी (Joshi)",
+            "परख (Parakh)"
+        ],
+        "Deity Name": "Hanuman"
+    },
+    {
+        "Branch Name": "Branch 64",
+        "Gotra": "थार्यानी (Tharyani)",
+        "Surnames": [
+            "बिस्वास (Biswas)",
+            "गोठवाल (Gothwal)"
+        ],
+        "Deity Name": "Lakshmi"
+    },
+    {
+        "Branch Name": "Branch 65",
+        "Gotra": "परयानी (Paryani)",
+        "Surnames": [
+            "नेमा (Nema)",
+            "व्यास (Vyas)"
+        ],
+        "Deity Name": "Krishna"
+    },
+    {
+        "Branch Name": "Branch 66",
+        "Gotra": "नथवंशी (Nathwanshi)",
+        "Surnames": [
+            "गोठवाल (Gothwal)",
+            "सूर्यवंशी (Suryavanshi)"
+        ],
+        "Deity Name": "Saraswati"
+    },
+    {
+        "Branch Name": "Branch 67",
+        "Gotra": "राठौर (Rathor)",
+        "Surnames": [
+            "सुवालका (Suwalka)",
+            "कालावत (Kalawat)"
+        ],
+        "Deity Name": "Shiva"
+    },
+    {
+        "Branch Name": "Branch 68",
+        "Gotra": "सोनीवाला (Soniwala)",
+        "Surnames": [
+            "पुरोहित (Purohit)",
+            "लोढ़ा (Lodha)"
+        ],
+        "Deity Name": "Vishnu"
+    },
+    {
+        "Branch Name": "Branch 69",
+        "Gotra": "विश्नोई (Vishnoi)",
+        "Surnames": [
+            "कटरिया (Katariya)",
+            "मानशानी (Manshani)"
+        ],
+        "Deity Name": "Ganesh"
+    },
+    {
+        "Branch Name": "Branch 70",
+        "Gotra": "लोहानी (Lohani)",
+        "Surnames": [
+            "तिबरेवाल (Tibrewal)",
+            "चंदालिया (Chandalia)"
+        ],
+        "Deity Name": "Durga"
+    },
+    {
+        "Branch Name": "Branch 71",
+        "Gotra": "गड़वाल (Gadwal)",
+        "Surnames": [
+            "भलोटिया (Bhalotia)",
+            "राठौर (Rathor)"
+        ],
+        "Deity Name": "Hanuman"
+    },
+    {
+        "Branch Name": "Branch 72",
+        "Gotra": "अग्रवाल (Agrawal)",
+        "Surnames": [
+            "टायल (Tayal)",
+            "बोहरा (Bohra)"
+        ],
+        "Deity Name": "Lakshmi"
+    },
+    {
+        "Branch Name": "Branch 73",
+        "Gotra": "गौतम (Gautam)",
+        "Surnames": [
+            "शर्मा (Sharma)",
+            "राठौर (Rathor)"
+        ],
+        "Deity Name": "Krishna"
+    },
+    {
+        "Branch Name": "Branch 74",
+        "Gotra": "चंदावत (Chandawat)",
+        "Surnames": [
+            "सोनी (Soni)",
+            "पटनी (Patni)"
+        ],
+        "Deity Name": "Saraswati"
+    },
+    {
+        "Branch Name": "Branch 75",
+        "Gotra": "भलसारा (Bhalsara)",
+        "Surnames": [
+            "ओसवाल (Oswal)",
+            "चावला (Chawla)"
+        ],
+        "Deity Name": "Shiva"
+    },
+    {
+        "Branch Name": "Branch 76",
+        "Gotra": "चतुर्वेदी (Chaturvedi)",
+        "Surnames": [
+            "सक्सेना (Saxena)",
+            "खंडेलवाल (Khandelwal)"
+        ],
+        "Deity Name": "Vishnu"
+    },
+    {
+        "Branch Name": "Branch 77",
+        "Gotra": "मोर्याणी (Moryani)",
+        "Surnames": [
+            "बच्छानी (Bachani)",
+            "जोरा (Jaora)"
+        ],
+        "Deity Name": "Ganesh"
+    },
+    {
+        "Branch Name": "Branch 78",
+        "Gotra": "रघुवंशी (Raghuvanshi)",
+        "Surnames": [
+            "राठौर (Rathor)",
+            "सिंह (Singh)"
+        ],
+        "Deity Name": "Durga"
+    },
+    {
+        "Branch Name": "Branch 79",
+        "Gotra": "पंचोली (Pancholi)",
+        "Surnames": [
+            "रावल (Rawal)",
+            "तिवारी (Tiwari)"
+        ],
+        "Deity Name": "Hanuman"
+    },
+    {
+        "Branch Name": "Branch 80",
+        "Gotra": "नथवंशी (Nathwanshi)",
+        "Surnames": [
+            "राठौर (Rathor)",
+            "जैन (Jain)"
+        ],
+        "Deity Name": "Lakshmi"
+    },
+    {
+        "Branch Name": "Branch 81",
+        "Gotra": "डोबला (Doblala)",
+        "Surnames": [
+            "पटेल (Patel)",
+            "टायल (Tayal)"
+        ],
+        "Deity Name": "Krishna"
+    },
+    {
+        "Branch Name": "Branch 82",
+        "Gotra": "मुकुटिया (Mukutiya)",
+        "Surnames": [
+            "धनुष (Dhanush)",
+            "तंवर (Tanwar)"
+        ],
+        "Deity Name": "Saraswati"
+    },
+    {
+        "Branch Name": "Branch 83",
+        "Gotra": "कुआ (Kua)",
+        "Surnames": [
+            "पोरवाल (Porwal)",
+            "तंवर (Tanwar)"
+        ],
+        "Deity Name": "Shiva"
+    },
+    {
+        "Branch Name": "Branch 84",
+        "Gotra": "सींगला (Singla)",
+        "Surnames": [
+            "माथुर (Mathur)",
+            "व्यास (Vyas)"
+        ],
+        "Deity Name": "Vishnu"
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "Branch Name": "Branch 1",
+        "Gotra": "Vashistha",
+        "Deity": "Indra",
+        "Surnames": [
+            "Sharma",
+            "Joshi",
+            "Tripathi"
+        ]
+    },
+    {
+        "Branch Name": "Branch 2",
+        "Gotra": "Angirasa",
+        "Deity": "Agni",
+        "Surnames": [
+            "Tiwari",
+            "Mishra",
+            "Pandey"
+        ]
+    },
+    {
+        "Branch Name": "Branch 3",
+        "Gotra": "Bharadvaja",
+        "Deity": "Varuna",
+        "Surnames": [
+            "Dwivedi",
+            "Chaturvedi",
+            "Upadhyay"
+        ]
+    },
+    {
+        "Branch Name": "Branch 4",
+        "Gotra": "Kashyapa",
+        "Deity": "Surya",
+        "Surnames": [
+            "Bhatnagar",
+            "Agnihotri",
+            "Kapoor"
+        ]
+    },
+    {
+        "Branch Name": "Branch 5",
+        "Gotra": "Atri",
+        "Deity": "Chandra",
+        "Surnames": [
+            "Shukla",
+            "Trivedi",
+            "Pande"
+        ]
+    },
+    {
+        "Branch Name": "Branch 6",
+        "Gotra": "Vishvamitra",
+        "Deity": "Brahma",
+        "Surnames": [
+            "Dubey",
+            "Dixit",
+            "Vyas"
+        ]
+    },
+    {
+        "Branch Name": "Branch 7",
+        "Gotra": "Gautama",
+        "Deity": "Shiva",
+        "Surnames": [
+            "Srivastava",
+            "Rai",
+            "Pathak"
+        ]
+    },
+    {
+        "Branch Name": "Branch 8",
+        "Gotra": "Jamadagni",
+        "Deity": "Vishnu",
+        "Surnames": [
+            "Yadav",
+            "Verma",
+            "Rao"
+        ]
+    },
+    {
+        "Branch Name": "Branch 9",
+        "Gotra": "Vishnu",
+        "Deity": "Lakshmi",
+        "Surnames": [
+            "Gupta",
+            "Singh",
+            "Jain"
+        ]
+    },
+    {
+        "Branch Name": "Branch 10",
+        "Gotra": "Shandilya",
+        "Deity": "Shakti",
+        "Surnames": [
+            "Bajpai",
+            "Rastogi",
+            "Nigam"
+        ]
+    },
+    {
+        "Branch Name": "Branch 11",
+        "Gotra": "Bhargava",
+        "Deity": "Parashurama",
+        "Surnames": [
+            "Vashistha",
+            "Saxena",
+            "Mehra"
+        ]
+    },
+    {
+        "Branch Name": "Branch 12",
+        "Gotra": "Kutsa",
+        "Deity": "Vayu",
+        "Surnames": [
+            "Kulshreshtha",
+            "Bhat",
+            "Tandon"
+        ]
+    },
+    {
+        "Branch Name": "Branch 13",
+        "Gotra": "Harita",
+        "Deity": "Ganesha",
+        "Surnames": [
+            "Chaudhary",
+            "Kashyap",
+            "Naik"
+        ]
+    },
+    {
+        "Branch Name": "Branch 14",
+        "Gotra": "Agastya",
+        "Deity": "Hanuman",
+        "Surnames": [
+            "Reddy",
+            "Agarwal",
+            "Bhandari"
+        ]
+    },
+    {
+        "Branch Name": "Branch 15",
+        "Gotra": "Mudgala",
+        "Deity": "Dhanvantari",
+        "Surnames": [
+            "Vaidya",
+            "Nath",
+            "Chakraborty"
+        ]
+    },
+    {
+        "Branch Name": "Branch 16",
+        "Gotra": "Katyayana",
+        "Deity": "Durga",
+        "Surnames": [
+            "Katyayan",
+            "Bhattacharya",
+            "Ghosh"
+        ]
+    },
+    {
+        "Branch Name": "Branch 17",
+        "Gotra": "Kanva",
+        "Deity": "Saraswati",
+        "Surnames": [
+            "Banerjee",
+            "Mukherjee",
+            "Chatterjee"
+        ]
+    },
+    {
+        "Branch Name": "Branch 18",
+        "Gotra": "Maitreya",
+        "Deity": "Buddha",
+        "Surnames": [
+            "Shah",
+            "Patel",
+            "Desai"
+        ]
+    },
+    {
+        "Branch Name": "Branch 19",
+        "Gotra": "Pulastya",
+        "Deity": "Kubera",
+        "Surnames": [
+            "Kapoor",
+            "Mehta",
+            "Gupta"
+        ]
+    },
+    {
+        "Branch Name": "Branch 20",
+        "Gotra": "Vashishtha",
+        "Deity": "Agni",
+        "Surnames": [
+            "Awasthi",
+            "Upadhyay",
+            "Dwivedi"
+        ]
+    },
+    {
+        "Branch Name": "Branch 21",
+        "Gotra": "Atri",
+        "Deity": "Soma",
+        "Surnames": [
+            "Shukla",
+            "Trivedi",
+            "Pande"
+        ]
+    },
+    {
+        "Branch Name": "Branch 22",
+        "Gotra": "Vishwamitra",
+        "Deity": "Indra",
+        "Surnames": [
+            "Dubey",
+            "Dixit",
+            "Vyas"
+        ]
+    },
+    {
+        "Branch Name": "Branch 23",
+        "Gotra": "Gautama",
+        "Deity": "Chandra",
+        "Surnames": [
+            "Srivastava",
+            "Rai",
+            "Pathak"
+        ]
+    },
+    {
+        "Branch Name": "Branch 24",
+        "Gotra": "Jamadagni",
+        "Deity": "Vayu",
+        "Surnames": [
+            "Yadav",
+            "Verma",
+            "Rao"
+        ]
+    },
+    {
+        "Branch Name": "Branch 25",
+        "Gotra": "Vishnu",
+        "Deity": "Lakshmi",
+        "Surnames": [
+            "Gupta",
+            "Singh",
+            "Jain"
+        ]
+    },
+    {
+        "Branch Name": "Branch 26",
+        "Gotra": "Shandilya",
+        "Deity": "Shiva",
+        "Surnames": [
+            "Bajpai",
+            "Rastogi",
+            "Nigam"
+        ]
+    },
+    {
+        "Branch Name": "Branch 27",
+        "Gotra": "Bhargava",
+        "Deity": "Parashurama",
+        "Surnames": [
+            "Vashistha",
+            "Saxena",
+            "Mehra"
+        ]
+    },
+    {
+        "Branch Name": "Branch 28",
+        "Gotra": "Kutsa",
+        "Deity": "Varuna",
+        "Surnames": [
+            "Kulshreshtha",
+            "Bhat",
+            "Tandon"
+        ]
+    },
+    {
+        "Branch Name": "Branch 29",
+        "Gotra": "Harita",
+        "Deity": "Ganesha",
+        "Surnames": [
+            "Chaudhary",
+            "Kashyap",
+            "Naik"
+        ]
+    },
+    {
+        "Branch Name": "Branch 30",
+        "Gotra": "Agastya",
+        "Deity": "Hanuman",
+        "Surnames": [
+            "Reddy",
+            "Agarwal",
+            "Bhandari"
+        ]
+    },
+    {
+        "Branch Name": "Branch 31",
+        "Gotra": "Mudgala",
+        "Deity": "Dhanvantari",
+        "Surnames": [
+            "Vaidya",
+            "Nath",
+            "Chakraborty"
+        ]
+    },
+    {
+        "Branch Name": "Branch 32",
+        "Gotra": "Katyayana",
+        "Deity": "Durga",
+        "Surnames": [
+            "Katyayan",
+            "Bhattacharya",
+            "Ghosh"
+        ]
+    },
+    {
+        "Branch Name": "Branch 33",
+        "Gotra": "Kanva",
+        "Deity": "Saraswati",
+        "Surnames": [
+            "Banerjee",
+            "Mukherjee",
+            "Chatterjee"
+        ]
+    },
+    {
+        "Branch Name": "Branch 34",
+        "Gotra": "Maitreya",
+        "Deity": "Buddha",
+        "Surnames": [
+            "Shah",
+            "Patel",
+            "Desai"
+        ]
+    },
+    {
+        "Branch Name": "Branch 35",
+        "Gotra": "Pulastya",
+        "Deity": "Kubera",
+        "Surnames": [
+            "Kapoor",
+            "Mehta",
+            "Gupta"
+        ]
+    },
+    {
+        "Branch Name": "Branch 36",
+        "Gotra": "Galav",
+        "Deity": "Agni",
+        "Surnames": [
+            "Galav",
+            "Bansal",
+            "Gupta"
+        ]
+    },
+    {
+        "Branch Name": "Branch 37",
+        "Gotra": "Mudgala",
+        "Deity": "Shiva",
+        "Surnames": [
+            "Mudgal",
+            "Sharma",
+            "Iyer"
+        ]
+    },
+    {
+        "Branch Name": "Branch 38",
+        "Gotra": "Vedavyasa",
+        "Deity": "Vishnu",
+        "Surnames": [
+            "Vyas",
+            "Pandey",
+            "Shukla"
+        ]
+    },
+    {
+        "Branch Name": "Branch 39",
+        "Gotra": "Harita",
+        "Deity": "Ganesha",
+        "Surnames": [
+            "Harit",
+            "Dubey",
+            "Awasthi"
+        ]
+    },
+    {
+        "Branch Name": "Branch 40",
+        "Gotra": "Vamadeva",
+        "Deity": "Durga",
+        "Surnames": [
+            "Vamadeva",
+            "Choudhury",
+            "Tripathi"
+        ]
+    },
+    {
+        "Branch Name": "Branch 41",
+        "Gotra": "Bharadvaja",
+        "Deity": "Agni",
+        "Surnames": [
+            "Bhargava",
+            "Dixit",
+            "Vashisth"
+        ]
+    },
+    {
+        "Branch Name": "Branch 42",
+        "Gotra": "Vaitala",
+        "Deity": "Shani",
+        "Surnames": [
+            "Vaital",
+            "Patel",
+            "Shah"
+        ]
+    },
+    {
+        "Branch Name": "Branch 43",
+        "Gotra": "Kaushika",
+        "Deity": "Shiva",
+        "Surnames": [
+            "Kaushik",
+            "Verma",
+            "Yadav"
+        ]
+    },
+    {
+        "Branch Name": "Branch 44",
+        "Gotra": "Parashar",
+        "Deity": "Vayu",
+        "Surnames": [
+            "Parashar",
+            "Mishra",
+            "Pandit"
+        ]
+    },
+    {
+        "Branch Name": "Branch 45",
+        "Gotra": "Gautama",
+        "Deity": "Chandra",
+        "Surnames": [
+            "Gautam",
+            "Srivastava",
+            "Rai"
+        ]
+    },
+    {
+        "Branch Name": "Branch 46",
+        "Gotra": "Katyayana",
+        "Deity": "Durga",
+        "Surnames": [
+            "Katyayan",
+            "Bhattacharya",
+            "Sen"
+        ]
+    },
+    {
+        "Branch Name": "Branch 47",
+        "Gotra": "Kanva",
+        "Deity": "Saraswati",
+        "Surnames": [
+            "Khan",
+            "Dey",
+            "Sarkar"
+        ]
+    },
+    {
+        "Branch Name": "Branch 48",
+        "Gotra": "Maitreya",
+        "Deity": "Buddha",
+        "Surnames": [
+            "Maitra",
+            "Roy",
+            "Pal"
+        ]
+    },
+    {
+        "Branch Name": "Branch 49",
+        "Gotra": "Pulastya",
+        "Deity": "Kubera",
+        "Surnames": [
+            "Pulastya",
+            "Mehta",
+            "Gupta"
+        ]
+    },
+    {
+        "Branch Name": "Branch 50",
+        "Gotra": "Raghukul",
+        "Deity": "Ram",
+        "Surnames": [
+            "Sharma",
+            "Joshi",
+            "Tiwari"
+        ]
+    },
+    {
+        "Branch Name": "Branch 51",
+        "Gotra": "Manu",
+        "Deity": "Vayu",
+        "Surnames": [
+            "Manu",
+            "Agrawal",
+            "Agarwal"
+        ]
+    },
+    {
+        "Branch Name": "Branch 52",
+        "Gotra": "Yajnavalkya",
+        "Deity": "Surya",
+        "Surnames": [
+            "Yajnik",
+            "Upadhyay",
+            "Pathak"
+        ]
+    },
+    {
+        "Branch Name": "Branch 53",
+        "Gotra": "Markandeya",
+        "Deity": "Shiva",
+        "Surnames": [
+            "Markande",
+            "Pandey",
+            "Rai"
+        ]
+    },
+    {
+        "Branch Name": "Branch 54",
+        "Gotra": "Lohita",
+        "Deity": "Agni",
+        "Surnames": [
+            "Lohit",
+            "Chatterjee",
+            "Sen"
+        ]
+    },
+    {
+        "Branch Name": "Branch 55",
+        "Gotra": "Shounaka",
+        "Deity": "Brahma",
+        "Surnames": [
+            "Shounak",
+            "Mukherjee",
+            "Chowdhury"
+        ]
+    },
+    {
+        "Branch Name": "Branch 56",
+        "Gotra": "Kaushika",
+        "Deity": "Shiva",
+        "Surnames": [
+            "Kaushik",
+            "Sharma",
+            "Dubey"
+        ]
+    },
+    {
+        "Branch Name": "Branch 57",
+        "Gotra": "Katyayana",
+        "Deity": "Durga",
+        "Surnames": [
+            "Katyayan",
+            "Bhattacharya",
+            "Chatterjee"
+        ]
+    },
+    {
+        "Branch Name": "Branch 58",
+        "Gotra": "Kanva",
+        "Deity": "Saraswati",
+        "Surnames": [
+            "Khan",
+            "Pal",
+            "Bose"
+        ]
+    },
+    {
+        "Branch Name": "Branch 59",
+        "Gotra": "Maitreya",
+        "Deity": "Buddha",
+        "Surnames": [
+            "Maitra",
+            "Roy",
+            "Pal"
+        ]
+    },
+    {
+        "Branch Name": "Branch 60",
+        "Gotra": "Pulastya",
+        "Deity": "Kubera",
+        "Surnames": [
+            "Pulastya",
+            "Mehta",
+            "Kapoor"
+        ]
+    },
+    {
+        "Branch Name": "Branch 61",
+        "Gotra": "Chyavana",
+        "Deity": "Shiva",
+        "Surnames": [
+            "Chyavan",
+            "Purohit",
+            "Vyas"
+        ]
+    },
+    {
+        "Branch Name": "Branch 62",
+        "Gotra": "Durvasa",
+        "Deity": "Agni",
+        "Surnames": [
+            "Durvas",
+            "Vyas",
+            "Mishra"
+        ]
+    },
+    {
+        "Branch Name": "Branch 63",
+        "Gotra": "Yajnavalkya",
+        "Deity": "Surya",
+        "Surnames": [
+            "Yajnik",
+            "Tripathi",
+            "Pandey"
+        ]
+    },
+    {
+        "Branch Name": "Branch 64",
+        "Gotra": "Vamadeva",
+        "Deity": "Durga",
+        "Surnames": [
+            "Vamadeva",
+            "Rao",
+            "Iyer"
+        ]
+    },
+    {
+        "Branch Name": "Branch 65",
+        "Gotra": "Sandilya",
+        "Deity": "Lakshmi",
+        "Surnames": [
+            "Sandilya",
+            "Garg",
+            "Jain"
+        ]
+    },
+    {
+        "Branch Name": "Branch 66",
+        "Gotra": "Vyasa",
+        "Deity": "Krishna",
+        "Surnames": [
+            "Vyasa",
+            "Pandey",
+            "Tiwari"
+        ]
+    },
+    {
+        "Branch Name": "Branch 67",
+        "Gotra": "Kasyapa",
+        "Deity": "Vishnu",
+        "Surnames": [
+            "Kashyap",
+            "Rai",
+            "Sharma"
+        ]
+    },
+    {
+        "Branch Name": "Branch 68",
+        "Gotra": "Vishwamitra",
+        "Deity": "Indra",
+        "Surnames": [
+            "Vishwakarma",
+            "Dixit",
+            "Verma"
+        ]
+    },
+    {
+        "Branch Name": "Branch 69",
+        "Gotra": "Gautama",
+        "Deity": "Chandra",
+        "Surnames": [
+            "Gautam",
+            "Kapoor",
+            "Bhat"
+        ]
+    },
+    {
+        "Branch Name": "Branch 70",
+        "Gotra": "Atri",
+        "Deity": "Soma",
+        "Surnames": [
+            "Atri",
+            "Nanda",
+            "Bhatt"
+        ]
+    },
+    {
+        "Branch Name": "Branch 71",
+        "Gotra": "Agastya",
+        "Deity": "Hanuman",
+        "Surnames": [
+            "Agastya",
+            "Kulkarni",
+            "Deshpande"
+        ]
+    },
+    {
+        "Branch Name": "Branch 72",
+        "Gotra": "Vashishtha",
+        "Deity": "Indra",
+        "Surnames": [
+            "Vashishth",
+            "Joshi",
+            "Tripathi"
+        ]
+    }
+]

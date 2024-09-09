@@ -1,0 +1,141 @@
+@font-face {
+    font-family: gilroy;
+    src: url(./gilroy/Gilroy-Regular.ttf);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    height: fit-content;
+    background-image: url(7309.jpg);
+    background-position: 10em 80em;
+    background-size: cover;
+    overflow-x: hidden;
+    font-family: "PP Woodland";
+}
+
+#header-title
+{
+    margin: 1em;
+    font-size: 4em;
+    text-align: center;
+    font-family: "PP Woodland";
+}
+
+
+#desc
+{
+    
+    margin: auto;
+    width: 50%;
+    margin-bottom: 2em;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: "gilroy";
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+    padding: 20px;
+    max-width: 1200px;
+    overflow-y: auto;
+    user-select: none;
+}
+
+.card {
+    background: #e1fdff;
+    background: #fff1d5;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    flex-basis: 300px;
+    box-sizing: border-box;
+    transition: transform 0.3s, max-height 0.3s ease-out;
+    cursor: pointer;
+    overflow: hidden;
+    flex-grow: 0;
+    flex-shrink: 0;
+    max-height: 3.9em; 
+}
+
+.card.open {
+    max-height: 20em;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card .deity-name {
+    padding: 20px;
+    font-size: 1em;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+.card .details {
+    padding: 20px;
+    display: none;
+    /* max-height: 0; */
+    /* overflow: hidden; */
+    transition: max-height 0.3s ease-out;
+}
+
+.card.open .details {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.card.open .details::-webkit-scrollbar {
+    display: none;
+}
+
+.card h2 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.card p {
+    margin: 10px 0;
+}
+
+.card ul {
+    list-style: none;
+    padding: 0;
+}
+
+.card ul li {
+    margin: 5px 0;
+}
+
+.surname-node {
+    /* overflow-y: scroll; */
+    background: #f7f7f7;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.surname-node:hover {
+    transform: scale(1.03);
+}
+
+@media only screen and (max-width: 800px) {
+    #desc {
+      background-color: rgb(255, 255, 255);
+      font-size: 2em;
+      width: 60%;
+      padding: 1em;
+      border-radius: 1em;
+    }
+  }
+  
