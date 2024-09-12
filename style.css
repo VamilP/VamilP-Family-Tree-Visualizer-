@@ -129,6 +129,13 @@ body {
     transform: scale(1.03);
 }
 
+footer
+{
+    text-align: center;
+    padding: 1em;
+    font-weight: 600;
+}
+
 @media only screen and (max-width: 800px) {
     #desc {
       background-color: rgb(255, 255, 255);
