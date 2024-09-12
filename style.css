@@ -17,6 +17,17 @@ body {
     font-family: "PP Woodland";
 }
 
+#element
+{
+    color: rgb(122, 0, 0);
+}
+
+#element > img
+{
+    width: 50px;
+    height: 50px;
+}
+
 #header-title
 {
     margin: 1em;
@@ -52,6 +63,8 @@ body {
     background: #e1fdff;
     background: #fff1d5;
     border: 1px solid #ddd;
+    color: rgb(122, 0, 0);
+    font-weight: 600;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     flex-basis: 300px;
@@ -65,7 +78,7 @@ body {
 }
 
 .card.open {
-    max-height: 20em;
+    max-height: 22em;
 }
 
 .card:hover {
@@ -117,12 +130,18 @@ body {
 .surname-node {
     /* overflow-y: scroll; */
     background: #f7f7f7;
+    color: rgb(63, 121, 19);
     margin: 10px;
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ddd;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s;
+}
+
+#surName
+{
+    color: #000;
 }
 
 .surname-node:hover {

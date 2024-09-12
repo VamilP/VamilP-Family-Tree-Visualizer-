@@ -16,7 +16,7 @@ fetch("./lang1.json")
       const surnamesHTML = branch.Surnames.map(
         (surname) => `
         <div class="surname-node">
-          <strong>Surname:</strong> ${surname}
+          <strong id='surName'>Surname:</strong> ${surname}
           <div><strong>Deity:</strong> ${branch.Deity}</div>
           <div><strong>Gotra:</strong> ${branch.Gotra}</div>
         </div>`
